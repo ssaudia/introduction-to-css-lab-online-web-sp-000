@@ -22,4 +22,6 @@ div {
 .perspective-questions {
   font-style: italic;
 }
-{link rel="stylesheet"href="/\.\/style\.css/"}
+{
+  link rel="stylesheet"href="/\.\/style\.css/"
+}
